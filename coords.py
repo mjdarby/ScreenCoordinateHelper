@@ -56,7 +56,7 @@ class CoordsFrame(wx.Frame):
 
     def OnAbout(self, event):
         """Print the about info"""
-        wx.MessageBox("Screen Coordinate Helper\nMatthew Darby\n\nhttps://github.com/mjdarby/ScreenCoordinateHelper")
+        wx.MessageBox("Screen Coordinate Helper 1.0\nBy Matthew Darby\n\nhttps://github.com/mjdarby/ScreenCoordinateHelper")
 
     def OnKeyPress(self, event):
         keycode = event.GetKeyCode()
