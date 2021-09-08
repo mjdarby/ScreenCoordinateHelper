@@ -1,5 +1,5 @@
 ﻿numpy==1.18.1
-Pillow==8.1.1
+Pillow==8.3.2
 pywin32==227
 six==1.14.0
 wxPython==4.0.7.post2
